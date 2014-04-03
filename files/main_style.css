@@ -19,6 +19,12 @@ ul.list {
 	margin: 10px 0 0 0;
 }
 
+#newsletter  ul{
+	margin-top: 30px
+	list-style-type: disc;
+	padding: 20px !important;
+}
+
 ol.list > li { list-style-type: decimal;}
 
 /* End Personal Styles: SK */ 
