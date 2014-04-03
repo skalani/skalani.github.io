@@ -20,9 +20,12 @@ ul.list {
 }
 
 #newsletter  ul{
-	margin-top: 30px
 	list-style-type: disc;
 	padding: 20px !important;
+}
+
+#newsletter{
+	margin-top: 30px;
 }
 
 ol.list > li { list-style-type: decimal;}
