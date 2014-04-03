@@ -24,8 +24,9 @@ ul.list {
 	padding: 20px !important;
 }
 
-#newsletter{
+#newsletter {
 	margin-top: 30px;
+	margin: 30px;
 }
 
 ol.list > li { list-style-type: decimal;}
